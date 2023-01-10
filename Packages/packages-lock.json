@@ -1,5 +1,18 @@
 {
   "dependencies": {
+    "com.cec.editorextensions": {
+      "version": "file:com.cec.editorextensions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.needle.upm-in-unitypackage": {
+      "version": "0.6.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 2,
@@ -8,7 +21,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.14",
+      "version": "2.0.17",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -16,15 +29,8 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.ide.vscode": {
-      "version": "1.2.5",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.test-framework": {
-      "version": "1.1.29",
+      "version": "1.1.31",
       "depth": 1,
       "source": "registry",
       "dependencies": {

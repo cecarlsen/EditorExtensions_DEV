@@ -1,0 +1,21 @@
+{
+  "name": "com.cec.editorextensions",
+  "version": "1.0.10",
+  "displayName": "Editor Extensions",
+  "description": "Quality of life editor extensions.",
+  "author": {
+    "name": "Carl Emil Carlsen",
+    "email": "public@cec.dk",
+    "url": "https://cec.dk"
+  },
+  "unity": "2021.3",
+  "type": "code",
+  "documentationUrl": "https://github.com/cecarlsen/EditorExtensions#readme",
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "All samples.",
+      "path": "Samples~"
+    }
+  ]
+}
