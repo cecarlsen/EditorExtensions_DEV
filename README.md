@@ -24,7 +24,7 @@ Context Menus
 License
 -------
 
-Copyright (C) 2017-2021 Carl Emil Carlsen
+Copyright (C) 2017-2023 Carl Emil Carlsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
