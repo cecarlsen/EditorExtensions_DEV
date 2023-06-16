@@ -28,13 +28,13 @@ namespace CEC.EditorExtensions
 {
 	public class ScreenshotMenuItem : ScriptableObject
 	{
-		[MenuItem( "Tools/Screenshot/PNG", false, 1 )]
+		[MenuItem( "Tools/Screenshot/PNG #%&s", false, 1 )]
 		static void Screenshot()
 		{
 			Screenshot( 1 );
 		}
 
-		[MenuItem ( "Tools/Screenshot/PNG x4 #%r", false, 2)]
+		[MenuItem ( "Tools/Screenshot/PNG x4", false, 2)]
 		static void ScreenshotX4()
 		{
 			Screenshot( 4 );

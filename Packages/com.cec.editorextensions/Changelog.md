@@ -1,3 +1,8 @@
+##0.0.4 (2023/03/15)
+
+- Changed screenshot shortcut to SHIFT-CTRL-ALT-S. 
+
+
 ##0.0.3 (2023/01/10)
 
 - Converted to Unity package.
