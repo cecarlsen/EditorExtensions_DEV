@@ -11,7 +11,7 @@ Features
 Top Menu
 
 
-- File/Export/Screenshot.
+- Tools/ScreensShot/..
 - GameObject/Selected MeshFilters/Combine.
 
 Context Menus
