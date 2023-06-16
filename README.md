@@ -2,7 +2,7 @@ EditorExtensions
 ===============
 
 Minor editor extensions for Unity3D.  
-Updated for Unity 2020.3
+Updated for Unity 2022.3
 
 
 Features
